@@ -1,1 +1,2 @@
-# data_generate_and_practice
+# 練習快速創造數據 <br/>
+## 主要包含numpy以及numba等提升效率的練習
